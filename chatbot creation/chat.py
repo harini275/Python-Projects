@@ -8,7 +8,7 @@ responses = {
     "hello": "Hi there! How can I assist you today?",
     "hi": "Hello! How can I help you?",
     "how are you": "I'm just a bot, but I'm doing great! How about you?",
-    "what is your name": "I'm a chatbot created to assist you.",
+    "what is your name": "I'm a virtual assitant created to assist you.",
     "help": "Sure, I'm here to help. What do you need assistance with?",
     "bye": "Goodbye! Have a great day!",
     "thank you": "You're welcome! I'm happy to help.",
