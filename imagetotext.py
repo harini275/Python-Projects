@@ -7,7 +7,7 @@ pytesseract.pytesseract.tesseract_cmd=r'C:\Program Files\Tesseract-OCR\tesseract
 
 def convert():
     img=Image.open('image to text.jpeg')
-    text=pytesseract.image_to_string(img)
+    text=pytesseract.image_to_string(image)
     print(text)
 
 convert()
